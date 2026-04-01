@@ -24,13 +24,13 @@ repository               : "babrahamson/brittabrahamson.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Britt Abrahamson"
+  pronouns         : "he/him" 
+  bio              : "Microbial ecology | modeling | biogeochemistry"
+  location         : "Pasadena, CA"
+  employer         : "Carnegie Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "babrahamson@carnegiescience.edu" 
 
   # Academic websites
   academia         : # URL
