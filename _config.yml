@@ -23,7 +23,7 @@ repository               : "babrahamson/brittabrahamson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "profile.jpeg"
   name             : "Britt Abrahamson"
   pronouns         : "he/him" 
   bio              : "microbial ecologist. modeler. biogeochemist."
