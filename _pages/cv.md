@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-** DSM** | Research Internship | 2018
-** Zymergen | Research Assistant | 2016 - 2017
+- **DSM** | Research Internship | 2018
+- **Zymergen** | Research Assistant | 2016 - 2017
   
 Misc
 ======
