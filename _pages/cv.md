@@ -30,7 +30,7 @@ Work experience
 
 Misc
 ======
-- Eagle Scout, Troop 799, Boy Scouts of America
+Eagle Scout, Troop 799, Boy Scouts of America
 
 <!--
 Publications
