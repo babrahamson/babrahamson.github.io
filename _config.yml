@@ -23,10 +23,10 @@ repository               : "babrahamson/brittabrahamson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "headshot.jpeg"
   name             : "Britt Abrahamson"
   pronouns         : "he/him" 
-  bio              : "Microbial ecology | modeling | biogeochemistry"
+  bio              : "microbial ecologist. modeler. biogeochemist."
   location         : "Pasadena, CA"
   employer         : "Carnegie Science"
   uri              : # URL
