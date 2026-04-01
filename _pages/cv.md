@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 =======
-**2025, Ph.D. Civil and Environmental Engineering, University of Washington** \
+**Ph.D. Civil and Environmental Engineering, University of Washington, 2025** \
 Advisor: Dr. Mari Winkler \
 Thesis: *Hidden versatility, competition, and cooperation: Methanogenesis and nitrification drive unexpected carbon and nitrogen cycle linkages*
 
-**2019, M.S. Biochemical Engineering, TU Delft** \
+**M.S. Biochemical Engineering, TU Delft, 2019** \
 Advisor: Dr. Cristian Picioreanu \
 Thesis: *Conceptual Design and Evaluation of a Commercial Syngas Fermentation Process*
 
-**2015, B.S. Chemical and Biomolecular Engineering, UC Berkeley**
+**B.S. Chemical and Biomolecular Engineering, UC Berkeley, 2015**
 <br>
 
 Work experience
